@@ -1,0 +1,1 @@
+execute as @e[type=!player,distance=..5] run effect give @s slowness 4

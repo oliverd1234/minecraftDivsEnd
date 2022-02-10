@@ -1,0 +1,47 @@
+[
+	{
+		"condition": "minecraft:location_check",
+		"offsetX": 0,
+		"predicate": {
+			"block": {
+				"tag": "vr:air"
+			}
+		}
+	},
+	{
+		"condition": "minecraft:location_check",
+		"offsetX": 1,
+		"predicate": {
+			"block": {
+				"tag": "vr:air"
+			}
+		}
+	},
+	{
+		"condition": "minecraft:location_check",
+		"offsetX": 2,
+		"predicate": {
+			"block": {
+				"tag": "vr:air"
+			}
+		}
+	},
+	{
+		"condition": "minecraft:location_check",
+		"offsetX": 3,
+		"predicate": {
+			"block": {
+				"tag": "vr:air"
+			}
+		}
+	},
+	{
+		"condition": "minecraft:location_check",
+		"offsetX": 4,
+		"predicate": {
+			"block": {
+				"tag": "vr:air"
+			}
+		}
+	}
+]

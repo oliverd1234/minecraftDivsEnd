@@ -1,0 +1,22 @@
+───────────────────────────────────────────────────────────────────────────────
+                Divinity's End 1.0.1, for Minecraft 1.16.5
+───────────────────────────────────────────────────────────────────────────────
+Length:     15-35 hours
+Objectives: 13 + 16 bonus
+Difficulty: Medium
+
+The map is fully compatible with multiplayer, just make sure to use a vanilla
+(NOT: Spigot, Paper, Forge...) server.
+
+While it's not recommended to use mods, Optifine or Sodium+Phosphor improve
+performance and don't seem to cause major issues as of writing this.
+───────────────────────────────────────────────────────────────────────────────
+Changelog:
+
+1.0.1
+- Noticeably optimized cartographer custom enchantments module.
+- PUFF! Fishe is back.
+- Fixed void death message.
+
+1.0.2
+- Fixed two (2) typos.

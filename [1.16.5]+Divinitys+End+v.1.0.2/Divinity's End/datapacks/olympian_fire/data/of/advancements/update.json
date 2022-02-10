@@ -1,0 +1,14 @@
+{
+	"criteria": {
+		"throw": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {}
+		},
+		"base": {
+			"trigger": "minecraft:impossible"
+		}
+	},
+	"rewards": {
+		"function": "of:player/update"
+	}
+}

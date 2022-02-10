@@ -1,0 +1,339 @@
+{
+  "cartographer_custom_enchantments:agility": {
+    "criteria": {
+      "find1": "2022-01-17 19:41:21 -0500"
+    },
+    "done": true
+  },
+  "cartographer_custom_enchantments:cleansing": {
+    "criteria": {
+      "find4": "2022-02-05 20:28:02 -0500"
+    },
+    "done": true
+  },
+  "cartographer_mob_abilities:reflect": {
+    "criteria": {
+      "found2": "2022-01-04 20:38:27 -0500"
+    },
+    "done": true
+  },
+  "cartographer_custom_enchantments:passive_tree": {
+    "criteria": {
+      "tick": "2021-10-26 18:50:07 -0400"
+    },
+    "done": true
+  },
+  "cartographer_custom_statuses:root": {
+    "criteria": {
+      "tick": "2021-10-26 18:50:07 -0400"
+    },
+    "done": true
+  },
+  "cartographer_custom_enchantments:other_tree": {
+    "criteria": {
+      "tick": "2021-10-26 18:50:07 -0400"
+    },
+    "done": true
+  },
+  "cartographer_custom_enchantments:infinity": {
+    "criteria": {
+      "found": "2021-11-14 19:58:11 -0500"
+    },
+    "done": true
+  },
+  "cartographer_custom_enchantments:sapper": {
+    "criteria": {
+      "find1": "2021-12-07 20:33:11 -0500"
+    },
+    "done": true
+  },
+  "cartographer_custom_statuses:shock": {
+    "criteria": {
+      "find2": "2021-10-26 20:18:42 -0400"
+    },
+    "done": true
+  },
+  "cartographer_custom_enchantments:evasion": {
+    "criteria": {
+      "find1": "2021-11-02 19:45:50 -0400"
+    },
+    "done": true
+  },
+  "cartographer_mob_abilities:passive_abilities": {
+    "criteria": {
+      "tick": "2021-10-26 18:50:07 -0400"
+    },
+    "done": true
+  },
+  "cartographer_custom_enchantments:root": {
+    "criteria": {
+      "tick": "2021-10-26 18:50:07 -0400"
+    },
+    "done": true
+  },
+  "cartographer_mob_abilities:active_abilities": {
+    "criteria": {
+      "tick": "2021-10-26 18:50:07 -0400"
+    },
+    "done": true
+  },
+  "cartographer_mob_abilities:laser": {
+    "criteria": {
+      "found": "2022-01-04 20:39:53 -0500"
+    },
+    "done": true
+  },
+  "cartographer_mob_abilities:spectral": {
+    "criteria": {
+      "found": "2021-12-07 19:38:55 -0500"
+    },
+    "done": true
+  },
+  "cartographer_custom_enchantments:volatile": {
+    "criteria": {
+      "find1": "2022-02-05 20:33:25 -0500"
+    },
+    "done": true
+  },
+  "cartographer_mob_abilities:enderport": {
+    "criteria": {
+      "found": "2021-12-07 20:36:02 -0500"
+    },
+    "done": true
+  },
+  "cartographer_custom_statuses:bleed": {
+    "criteria": {
+      "find4": "2021-11-02 19:54:53 -0400"
+    },
+    "done": true
+  },
+  "cartographer_custom_enchantments:lifesteal": {
+    "criteria": {
+      "find1": "2021-11-14 19:10:27 -0500"
+    },
+    "done": true
+  },
+  "cartographer_custom_enchantments:ranged_tree": {
+    "criteria": {
+      "tick": "2021-10-26 18:50:07 -0400"
+    },
+    "done": true
+  },
+  "cartographer_mob_abilities:blood_brutal": {
+    "criteria": {
+      "found": "2022-02-05 20:18:56 -0500"
+    },
+    "done": true
+  },
+  "cartographer_custom_enchantments:regeneration": {
+    "criteria": {
+      "find1": "2021-11-14 19:10:27 -0500"
+    },
+    "done": true
+  },
+  "cartographer_custom_enchantments:executioner": {
+    "criteria": {
+      "find1": "2021-12-14 19:41:53 -0500"
+    },
+    "done": true
+  },
+  "cartographer_custom_enchantments:hunter": {
+    "criteria": {
+      "find1": "2022-01-06 19:33:53 -0500"
+    },
+    "done": true
+  },
+  "cartographer_custom_enchantments:twohanded": {
+    "criteria": {
+      "found": "2021-12-14 19:41:53 -0500"
+    },
+    "done": true
+  },
+  "cartographer_custom_enchantments:stunning": {
+    "criteria": {
+      "find2": "2021-10-26 20:18:42 -0400"
+    },
+    "done": true
+  },
+  "cartographer_mob_abilities:webshot": {
+    "criteria": {
+      "found": "2021-12-07 20:30:56 -0500"
+    },
+    "done": true
+  },
+  "cartographer_mob_abilities:smash": {
+    "criteria": {
+      "found": "2021-11-15 19:38:50 -0500"
+    },
+    "done": true
+  },
+  "cartographer_custom_enchantments:frostbite": {
+    "criteria": {
+      "find2": "2022-02-05 19:59:07 -0500"
+    },
+    "done": true
+  },
+  "cartographer_custom_enchantments:decay": {
+    "criteria": {
+      "find3": "2022-01-06 19:52:03 -0500"
+    },
+    "done": true
+  },
+  "cartographer_mob_abilities:hookshot": {
+    "criteria": {
+      "found": "2021-11-15 19:40:39 -0500"
+    },
+    "done": true
+  },
+  "cartographer_custom_enchantments:curse_tree": {
+    "criteria": {
+      "tick": "2021-10-26 18:50:07 -0400"
+    },
+    "done": true
+  },
+  "cartographer_mob_abilities:charge": {
+    "criteria": {
+      "found": "2021-11-14 19:23:07 -0500"
+    },
+    "done": true
+  },
+  "cartographer_mob_abilities:ambush": {
+    "criteria": {
+      "found": "2021-11-15 19:32:43 -0500"
+    },
+    "done": true
+  },
+  "cartographer_mob_abilities:healer": {
+    "criteria": {
+      "found": "2021-12-07 20:31:28 -0500"
+    },
+    "done": true
+  },
+  "cartographer_custom_enchantments:surging_strike": {
+    "criteria": {
+      "find1": "2022-01-17 19:30:08 -0500"
+    },
+    "done": true
+  },
+  "of:update": {
+    "criteria": {
+      "base": "2021-10-26 18:50:07 -0400"
+    },
+    "done": false
+  },
+  "cartographer_mob_abilities:augmenter": {
+    "criteria": {
+      "found": "2021-11-15 19:59:50 -0500"
+    },
+    "done": true
+  },
+  "cartographer_mob_abilities:disarm": {
+    "criteria": {
+      "found": "2022-01-04 20:12:35 -0500"
+    },
+    "done": true
+  },
+  "cartographer_mob_abilities:sweep": {
+    "criteria": {
+      "found": "2021-11-15 19:40:31 -0500"
+    },
+    "done": true
+  },
+  "cartographer_custom_enchantments:trueshot": {
+    "criteria": {
+      "found": "2022-01-13 20:14:24 -0500"
+    },
+    "done": true
+  },
+  "cartographer_custom_enchantments:spurs": {
+    "criteria": {
+      "found": "2022-01-04 20:07:12 -0500"
+    },
+    "done": true
+  },
+  "cartographer_custom_statuses:stunned": {
+    "criteria": {
+      "found2": "2021-10-26 20:18:42 -0400"
+    },
+    "done": true
+  },
+  "cartographer_mob_abilities:flame_nova": {
+    "criteria": {
+      "found": "2021-12-14 19:40:28 -0500"
+    },
+    "done": true
+  },
+  "cartographer_custom_enchantments:frenzy": {
+    "criteria": {
+      "find1": "2022-01-17 20:15:13 -0500"
+    },
+    "done": true
+  },
+  "cartographer_custom_enchantments:soulbound": {
+    "criteria": {
+      "found": "2022-01-06 20:32:53 -0500"
+    },
+    "done": true
+  },
+  "cartographer_custom_enchantments:melee_tree": {
+    "criteria": {
+      "tick": "2021-10-26 18:50:07 -0400"
+    },
+    "done": true
+  },
+  "cartographer_custom_enchantments:overload": {
+    "criteria": {
+      "find2": "2021-10-26 20:18:42 -0400"
+    },
+    "done": true
+  },
+  "cartographer_mob_abilities:blood_relentless": {
+    "criteria": {
+      "found": "2022-01-04 20:08:51 -0500"
+    },
+    "done": true
+  },
+  "cartographer_custom_enchantments:echo": {
+    "criteria": {
+      "find2": "2022-01-13 20:29:58 -0500"
+    },
+    "done": true
+  },
+  "cartographer_mob_abilities:permacloak": {
+    "criteria": {
+      "found": "2021-12-07 20:36:02 -0500"
+    },
+    "done": true
+  },
+  "cartographer_custom_enchantments:duelist": {
+    "criteria": {
+      "find2": "2021-11-14 19:22:17 -0500"
+    },
+    "done": true
+  },
+  "cartographer_custom_enchantments:pickaxe_tree": {
+    "criteria": {
+      "tick": "2021-10-26 18:50:07 -0400"
+    },
+    "done": true
+  },
+  "cartographer_custom_enchantments:rend": {
+    "criteria": {
+      "found": "2021-11-02 19:54:53 -0400"
+    },
+    "done": true
+  },
+  "cartographer_mob_abilities:death_abilities": {
+    "criteria": {
+      "tick": "2021-10-26 18:50:07 -0400"
+    },
+    "done": true
+  },
+  "cartographer_mob_abilities:root": {
+    "criteria": {
+      "tick": "2021-10-26 18:50:07 -0400"
+    },
+    "done": true
+  },
+  "DataVersion": 2586
+}

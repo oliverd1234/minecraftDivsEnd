@@ -1,0 +1,252 @@
+[
+	{
+		"condition": "minecraft:location_check",
+		"offsetX": -2,
+		"offsetZ": -2,
+		"predicate": {
+			"block": {
+				"tag": "vr:air"
+			}
+		}
+	},
+	{
+		"condition": "minecraft:location_check",
+		"offsetX": -1,
+		"offsetZ": -2,
+		"predicate": {
+			"block": {
+				"tag": "vr:air"
+			}
+		}
+	},
+	{
+		"condition": "minecraft:location_check",
+		"offsetX": 0,
+		"offsetZ": -2,
+		"predicate": {
+			"block": {
+				"tag": "vr:air"
+			}
+		}
+	},
+	{
+		"condition": "minecraft:location_check",
+		"offsetX": 1,
+		"offsetZ": -2,
+		"predicate": {
+			"block": {
+				"tag": "vr:air"
+			}
+		}
+	},
+	{
+		"condition": "minecraft:location_check",
+		"offsetX": 2,
+		"offsetZ": -2,
+		"predicate": {
+			"block": {
+				"tag": "vr:air"
+			}
+		}
+	},
+	{
+		"condition": "minecraft:location_check",
+		"offsetX": -2,
+		"offsetZ": -1,
+		"predicate": {
+			"block": {
+				"tag": "vr:air"
+			}
+		}
+	},
+	{
+		"condition": "minecraft:location_check",
+		"offsetX": -1,
+		"offsetZ": -1,
+		"predicate": {
+			"block": {
+				"tag": "vr:air"
+			}
+		}
+	},
+	{
+		"condition": "minecraft:location_check",
+		"offsetX": 0,
+		"offsetZ": -1,
+		"predicate": {
+			"block": {
+				"tag": "vr:air"
+			}
+		}
+	},
+	{
+		"condition": "minecraft:location_check",
+		"offsetX": 1,
+		"offsetZ": -1,
+		"predicate": {
+			"block": {
+				"tag": "vr:air"
+			}
+		}
+	},
+	{
+		"condition": "minecraft:location_check",
+		"offsetX": 2,
+		"offsetZ": -1,
+		"predicate": {
+			"block": {
+				"tag": "vr:air"
+			}
+		}
+	},
+	{
+		"condition": "minecraft:location_check",
+		"offsetX": -2,
+		"offsetZ": 0,
+		"predicate": {
+			"block": {
+				"tag": "vr:air"
+			}
+		}
+	},
+	{
+		"condition": "minecraft:location_check",
+		"offsetX": -1,
+		"offsetZ": 0,
+		"predicate": {
+			"block": {
+				"tag": "vr:air"
+			}
+		}
+	},
+	{
+		"condition": "minecraft:location_check",
+		"offsetX": 0,
+		"offsetZ": 0,
+		"predicate": {
+			"block": {
+				"tag": "vr:air"
+			}
+		}
+	},
+	{
+		"condition": "minecraft:location_check",
+		"offsetX": 1,
+		"offsetZ": 0,
+		"predicate": {
+			"block": {
+				"tag": "vr:air"
+			}
+		}
+	},
+	{
+		"condition": "minecraft:location_check",
+		"offsetX": 2,
+		"offsetZ": 0,
+		"predicate": {
+			"block": {
+				"tag": "vr:air"
+			}
+		}
+	},
+	{
+		"condition": "minecraft:location_check",
+		"offsetX": -2,
+		"offsetZ": 1,
+		"predicate": {
+			"block": {
+				"tag": "vr:air"
+			}
+		}
+	},
+	{
+		"condition": "minecraft:location_check",
+		"offsetX": -1,
+		"offsetZ": 1,
+		"predicate": {
+			"block": {
+				"tag": "vr:air"
+			}
+		}
+	},
+	{
+		"condition": "minecraft:location_check",
+		"offsetX": 0,
+		"offsetZ": 1,
+		"predicate": {
+			"block": {
+				"tag": "vr:air"
+			}
+		}
+	},
+	{
+		"condition": "minecraft:location_check",
+		"offsetX": 1,
+		"offsetZ": 1,
+		"predicate": {
+			"block": {
+				"tag": "vr:air"
+			}
+		}
+	},
+	{
+		"condition": "minecraft:location_check",
+		"offsetX": 2,
+		"offsetZ": 1,
+		"predicate": {
+			"block": {
+				"tag": "vr:air"
+			}
+		}
+	},
+	{
+		"condition": "minecraft:location_check",
+		"offsetX": -2,
+		"offsetZ": 2,
+		"predicate": {
+			"block": {
+				"tag": "vr:air"
+			}
+		}
+	},
+	{
+		"condition": "minecraft:location_check",
+		"offsetX": -1,
+		"offsetZ": 2,
+		"predicate": {
+			"block": {
+				"tag": "vr:air"
+			}
+		}
+	},
+	{
+		"condition": "minecraft:location_check",
+		"offsetX": 0,
+		"offsetZ": 2,
+		"predicate": {
+			"block": {
+				"tag": "vr:air"
+			}
+		}
+	},
+	{
+		"condition": "minecraft:location_check",
+		"offsetX": 1,
+		"offsetZ": 2,
+		"predicate": {
+			"block": {
+				"tag": "vr:air"
+			}
+		}
+	},
+	{
+		"condition": "minecraft:location_check",
+		"offsetX": 2,
+		"offsetZ": 2,
+		"predicate": {
+			"block": {
+				"tag": "vr:air"
+			}
+		}
+	}
+]

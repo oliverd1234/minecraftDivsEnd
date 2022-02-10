@@ -1,0 +1,81 @@
+{
+  "cartographer_mob_abilities:passive_abilities": {
+    "criteria": {
+      "tick": "2022-02-09 22:31:52 -0500"
+    },
+    "done": true
+  },
+  "cartographer_custom_enchantments:root": {
+    "criteria": {
+      "tick": "2022-02-09 22:31:52 -0500"
+    },
+    "done": true
+  },
+  "cartographer_mob_abilities:active_abilities": {
+    "criteria": {
+      "tick": "2022-02-09 22:31:52 -0500"
+    },
+    "done": true
+  },
+  "cartographer_custom_enchantments:passive_tree": {
+    "criteria": {
+      "tick": "2022-02-09 22:31:52 -0500"
+    },
+    "done": true
+  },
+  "cartographer_custom_enchantments:melee_tree": {
+    "criteria": {
+      "tick": "2022-02-09 22:31:52 -0500"
+    },
+    "done": true
+  },
+  "cartographer_custom_enchantments:curse_tree": {
+    "criteria": {
+      "tick": "2022-02-09 22:31:52 -0500"
+    },
+    "done": true
+  },
+  "cartographer_custom_statuses:root": {
+    "criteria": {
+      "tick": "2022-02-09 22:31:52 -0500"
+    },
+    "done": true
+  },
+  "cartographer_custom_enchantments:other_tree": {
+    "criteria": {
+      "tick": "2022-02-09 22:31:52 -0500"
+    },
+    "done": true
+  },
+  "of:update": {
+    "criteria": {
+      "base": "2022-02-09 22:31:52 -0500"
+    },
+    "done": false
+  },
+  "cartographer_custom_enchantments:ranged_tree": {
+    "criteria": {
+      "tick": "2022-02-09 22:31:52 -0500"
+    },
+    "done": true
+  },
+  "cartographer_custom_enchantments:pickaxe_tree": {
+    "criteria": {
+      "tick": "2022-02-09 22:31:52 -0500"
+    },
+    "done": true
+  },
+  "cartographer_mob_abilities:death_abilities": {
+    "criteria": {
+      "tick": "2022-02-09 22:31:52 -0500"
+    },
+    "done": true
+  },
+  "cartographer_mob_abilities:root": {
+    "criteria": {
+      "tick": "2022-02-09 22:31:52 -0500"
+    },
+    "done": true
+  },
+  "DataVersion": 2586
+}

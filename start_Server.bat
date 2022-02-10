@@ -1,0 +1,1 @@
+java -jar -Xmx10G server.jar

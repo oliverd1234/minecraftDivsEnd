@@ -1,0 +1,78 @@
+[19:22:56] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19:22:56] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:22:56] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:22:56] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19:22:56] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:22:56] [main/INFO]: Reloading ResourceManager: Default, Cartographer - Core, Cartographer - Custom Enchantments, Cartographer - Custom Statuses, Cartographer - Mimics, Cartographer - Mob Abilities, Cartographer - Repair Stations, adri, blade, coldfusion, kunii, pear, suso, void_return, olympian_fire
+[19:23:01] [Worker-Main-10/INFO]: Loaded 7 recipes
+[19:23:01] [Worker-Main-10/INFO]: Loaded 1040 advancements
+[19:23:04] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[19:23:04] [Server thread/INFO]: Loading properties
+[19:23:04] [Server thread/INFO]: Default game type: SURVIVAL
+[19:23:04] [Server thread/INFO]: Generating keypair
+[19:23:04] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:23:04] [Server thread/INFO]: Using default channel type
+[19:23:04] [Server thread/INFO]: Preparing level "world"
+[19:23:05] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:23:06] [Server thread/INFO]: Preparing spawn area: 0%
+[19:23:06] [Server thread/INFO]: Preparing spawn area: 0%
+[19:23:06] [Server thread/INFO]: Preparing spawn area: 0%
+[19:23:06] [Server thread/INFO]: Time elapsed: 1708 ms
+[19:23:06] [Server thread/INFO]: Done (1.838s)! For help, type "help"
+[19:29:15] [User Authenticator #1/INFO]: UUID of player Serdnas is 54aa7dc3-728a-4a76-af03-52a769a6400b
+[19:29:15] [Server thread/INFO]: Serdnas[/174.48.237.55:63336] logged in with entity id 151 at (1076.52551656333, 123.0, -736.6741861737703)
+[19:29:15] [Server thread/INFO]: Serdnas joined the game
+[19:29:20] [User Authenticator #2/INFO]: UUID of player Burke57 is 2df0394f-00ea-4c55-a36e-13d8642f364a
+[19:29:20] [Server thread/INFO]: Burke57[/108.206.106.150:64851] logged in with entity id 241 at (1057.666230435978, 101.0, -786.6999999880791)
+[19:29:20] [Server thread/INFO]: Burke57 joined the game
+[19:29:31] [Server thread/INFO]: <Serdnas> ARE WE THOUGH
+[19:30:03] [Server thread/INFO]: <Serdnas> 2? ok
+[19:30:08] [Server thread/INFO]: <Serdnas> oh
+[19:30:09] [Server thread/INFO]: <Serdnas> bet
+[19:30:51] [User Authenticator #3/INFO]: UUID of player SpicyLarry is bb33a8d1-d317-4af3-be87-0d21ec7255e4
+[19:30:51] [Server thread/INFO]: SpicyLarry[/50.89.161.70:62410] logged in with entity id 245 at (1093.300000011921, 160.0, -784.0749999880791)
+[19:30:51] [Server thread/INFO]: SpicyLarry joined the game
+[19:32:06] [User Authenticator #4/INFO]: UUID of player D1ssonant_ is ddfbf77d-9320-42fe-8818-ae224fe7239e
+[19:32:07] [Server thread/INFO]: D1ssonant_[/104.60.209.108:58503] logged in with entity id 264 at (1096.698630949713, 159.0, -775.6135105149132)
+[19:32:07] [Server thread/INFO]: D1ssonant_ joined the game
+[19:32:49] [Server thread/INFO]: Burke57 was slain by Brutal Bloodbat
+[19:33:12] [Server thread/INFO]: Burke57 fell from a high place
+[19:37:19] [Server thread/WARN]: D1ssonant_ moved too quickly! -0.08663041925274229,-13.192412540127464,0.1463707937093659
+[19:37:39] [User Authenticator #5/INFO]: UUID of player harbingerguy is 0fd73981-3dff-4340-b5ea-86e1cbc65eff
+[19:37:39] [Server thread/INFO]: harbingerguy[/10.0.0.101:58179] logged in with entity id 794 at (1057.4099589441735, 110.0, -789.8277261772178)
+[19:37:39] [Server thread/INFO]: harbingerguy joined the game
+[19:37:40] [Server thread/INFO]: Serdnas was slain by Blighted Citizen using [Blight Tendrils]
+[19:38:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[19:38:26] [Server thread/INFO]: Serdnas lost connection: Disconnected
+[19:38:26] [Server thread/INFO]: Serdnas left the game
+[19:38:30] [Server thread/INFO]: SpicyLarry was shot by Rageblight Horror using [Rageblight Catalyst]
+[19:38:32] [Server thread/INFO]: D1ssonant_ was shot by Rageblight Horror using [Rageblight Catalyst]
+[19:38:53] [User Authenticator #6/INFO]: UUID of player Serdnas is 54aa7dc3-728a-4a76-af03-52a769a6400b
+[19:38:53] [Server thread/INFO]: Serdnas[/174.48.237.55:51199] logged in with entity id 891 at (1070.7540317618652, 94.0, -787.7557798145723)
+[19:38:53] [Server thread/INFO]: Serdnas joined the game
+[19:39:00] [Server thread/INFO]: SpicyLarry lost connection: Timed out
+[19:39:00] [Server thread/INFO]: SpicyLarry left the game
+[19:39:26] [User Authenticator #7/INFO]: UUID of player SpicyLarry is bb33a8d1-d317-4af3-be87-0d21ec7255e4
+[19:39:26] [Server thread/INFO]: SpicyLarry[/50.89.161.70:54106] logged in with entity id 917 at (1097.467812983493, 160.0, -782.8292780893444)
+[19:39:26] [Server thread/INFO]: SpicyLarry joined the game
+[19:41:33] [Server thread/INFO]: Burke57 was killed by magic whilst trying to escape Blighted Watchman
+[19:42:16] [Server thread/INFO]: Serdnas was slain by Blighted Citizen using [Blight Tendrils]
+[19:42:45] [Server thread/INFO]: SpicyLarry hit the ground too hard
+[19:43:31] [Server thread/INFO]: D1ssonant_ lost connection: Disconnected
+[19:43:31] [Server thread/INFO]: D1ssonant_ left the game
+[19:43:34] [Server thread/INFO]: SpicyLarry lost connection: Disconnected
+[19:43:34] [Server thread/INFO]: SpicyLarry left the game
+[19:43:40] [Server thread/INFO]: Burke57 was slain by Blightspider
+[19:44:06] [Server thread/INFO]: Serdnas lost connection: Disconnected
+[19:44:06] [Server thread/INFO]: Serdnas left the game
+[19:45:13] [Server thread/INFO]: Burke57 was slain by Blightspider
+[19:49:07] [Server thread/INFO]: harbingerguy fell from a high place
+[19:49:18] [Server thread/INFO]: harbingerguy lost connection: Disconnected
+[19:49:18] [Server thread/INFO]: harbingerguy left the game
+[19:52:39] [Server thread/INFO]: Burke57 lost connection: Disconnected
+[19:52:39] [Server thread/INFO]: Burke57 left the game
+[22:31:52] [User Authenticator #8/INFO]: UUID of player Bilibili_Feng is 8f50b361-68dc-4cd4-a00b-b739cb4800af
+[22:31:52] [Server thread/INFO]: Bilibili_Feng[/207.244.236.144:40208] logged in with entity id 1627 at (0.5, 1.0, 0.5)
+[22:31:52] [Server thread/INFO]: Bilibili_Feng joined the game
+[22:31:57] [Server thread/INFO]: Bilibili_Feng lost connection: Disconnected
+[22:31:57] [Server thread/INFO]: Bilibili_Feng left the game

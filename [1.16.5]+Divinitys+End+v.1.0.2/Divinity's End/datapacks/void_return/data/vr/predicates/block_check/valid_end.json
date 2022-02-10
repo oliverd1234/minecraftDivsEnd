@@ -1,0 +1,41 @@
+{
+	"condition": "minecraft:inverted",
+	"term": {
+		"condition": "minecraft:alternative",
+		"terms": [
+			{
+				"condition": "minecraft:location_check",
+				"offsetY": -1,
+				"predicate": {
+					"block": {
+						"tag": "vr:non-solid"
+					}
+				}
+			},
+			{
+				"condition": "minecraft:inverted",
+				"term": {
+					"condition": "minecraft:location_check",
+					"offsetY": 0,
+					"predicate": {
+						"block": {
+							"tag": "vr:air"
+						}
+					}
+				}
+			},
+			{
+				"condition": "minecraft:inverted",
+				"term": {
+					"condition": "minecraft:location_check",
+					"offsetY": 1,
+					"predicate": {
+						"block": {
+							"tag": "vr:air"
+						}
+					}
+				}
+			}
+		]
+	}
+}
